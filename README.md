@@ -10,7 +10,7 @@ O projeto consiste na criação de uma api em Java que armazena clientes, pedido
 * Spring Framework
 * Eclipse IDE
 
-## Dependencias do Spring utilizadas
+## Dependências do Spring utilizadas
 
 * Spring Data JPA
 * Spring Web
@@ -54,7 +54,7 @@ da criação de uma classe InformaçõesPedidoDTO() com todos os atríbutos que 
 O Pacote service é utilizado para fazer a ligação entre Repository e Controller. No caso do projeto ele foi utilizado para criação das classes DTO e aleração
 do Status do pedido. 
 
-## Validation
+### Validation
 
 O Pacote validation é utilizado para verificar se uma lista é vazia ou nula.
 
