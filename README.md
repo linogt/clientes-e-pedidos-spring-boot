@@ -16,6 +16,7 @@ O projeto consiste na criação de uma api em Java que armazena clientes, pedido
 * Spring Web
 * Spring DevTools
 * Spring Validation
+* H2 Database
 * Lombok
 
 ## Estrutura do Banco de Dados
